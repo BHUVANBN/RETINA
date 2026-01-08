@@ -1,0 +1,7 @@
+venv
+*.h5
+*__pycache__*
+colored_images/
+classified_images/
+*.log
+*.zip
