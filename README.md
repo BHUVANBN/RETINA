@@ -317,7 +317,7 @@ Always verify system status:
 curl http://localhost:8000/prediction/health/
 ```
 
-###Model
+### Model
 Dowload and add the Model to the prediction/
 ```
 https://drive.google.com/file/d/1kde76ejx99y9BRN-SU-hKb-NOzYk7kW4/view?usp=sharing
